@@ -1,0 +1,133 @@
+body{
+  background-image: url(https://www.cuchd.in/student-services/images/sl-2.jpg);
+   /* background-color:
+ text-align: center;
+ border-top: 0; */
+margin: 0;
+}
+h1 {
+  color: #FFE194;
+  font-size: 60px;
+  font-weight: bold;
+  margin:0;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-size: 35px;
+}
+
+nav {
+  background-color: #B5EAEA;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+a {
+  color: #444444;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: red;
+}
+
+.div3 {
+  background-color: #171717;
+  margin: 0;
+  padding-top: 0;
+}
+
+.div2 {
+    margin: 0;
+  background-color:
+    rgba(255, 255, 255, 0.5);
+  /* display: inline-block; */
+  background-size: cover;
+  padding-bottom: 5px;
+}
+.div1{
+  margin:0;
+}
+label {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  width: 150px;
+  text-align: right;
+}
+
+button {
+  background-color: #A2DBFA;
+  border-radius: 20px;
+  color: green;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 50%;
+  padding:10px;
+}
+button:hover{
+  color:red;
+}
+button:active{
+  color:blue;
+}
+.button {
+  background-color: blue;
+  border: 2px solid white;
+  border-radius: 30px;
+  text-decoration: none;
+  padding: 10px 28px;
+  color: white;
+  margin-top: 10px;
+  display: inline-block;
+}
+.button:hover {
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+ }
+.popup1{
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+.popup2{
+  height: 300px;
+  width: 500px;
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  border-radius: 4px;
+}
+
+.close {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  font-size: 42px;
+  color: #333;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+.close:hover {
+    color: #666;
+  }
+.about{
+  font-size: 25px;
+}
+

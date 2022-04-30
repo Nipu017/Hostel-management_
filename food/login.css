@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBn0WC376TY_ew0aLSjr8lD8yQilzyOu1pzQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+}
+.div1{
+    margin-top: 0;
+}
+h2{
+    background-color: skyblue;
+    margin-top: 0;
+    font-size: 3em;
+    text-align: center;
+}
+.index{
+ width: 400px;
+ height: 480px;
+ background:#000;
+ color:#fff;
+ top: 50%;
+ left: 50%;
+ position: absolute;
+ transform:translate(-50%,-50%);
+ box-sizing: border-box;
+ padding: 70px 30px;
+
+}
+h1{
+ margin: 0;
+ padding: 0 0 20px;
+ text-align: center;
+ font-size: 30px;
+}
+.index p{
+ margin: 0;
+ padding: 0;
+ font-weight: bold;
+}
+.index input{
+ width:100%;
+ margin-bottom: 20px;
+}
+.index input[type="text"], input[type="password"]
+{
+ border: none;
+ border-bottom: 1px solid #fff;
+ background: transparent;
+ outline:none;
+ height: 40px;
+ color: #fff;
+ font-size: 16px;
+}
+.index input[type="submit"]
+{
+ border: none;
+ outline: none;
+ height: 40px;
+ background:#fb2525;
+ color: #fff;
+ font-size: 19px;
+ border-radius:20px;
+}
+.index input[type="submit"]:hover
+{
+ cursor: pointer;
+ background: blue;
+
+}
+.index a{
+ text-decoration: none;
+ font-size: 12px;
+ line-height: 20px;
+ color: darkgray;
+}
+.index a:hover
+{
+ color: blue;
+}

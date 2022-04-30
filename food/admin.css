@@ -1,0 +1,67 @@
+a:hover{
+    color:red;
+  }
+  body{
+   /* background-image: url(https://www.cuchd.in/student-services/images/sl-2.jpg); */
+    /* background-color:
+  text-align: center;
+  border-top: 0; */
+  margin: 0;
+  }
+  h1 {
+   color: #000000;
+   font-size: 100px;
+   font-weight: bold;
+   margin:0;
+   text-align: center;
+  }
+  h2{
+   text-align: center;
+   font-size: 35px;
+  }
+  
+  
+  
+  
+  #a:hover {
+   color: white;
+  }
+  
+  #a:active {
+   color: red;
+  }
+  #ab:hover{
+    color:rgb(33, 226, 15);
+  }
+  .div2 {
+     margin: 0;
+   background-color:
+     rgba(255, 255, 255, 0.3);
+   /* display: inline-block; */
+   background-size: cover;
+   padding-bottom: 5px;
+  }
+  label {
+   display: inline-block;
+   font-size: 20px;
+   font-weight: bold;
+   width: 150px;
+   text-align: right;
+  }
+  
+  button {
+   background-color: #A2DBFA;
+   border-radius: 20px;
+   color: green;
+   font-size: 15px;
+   font-weight: bold;
+   margin-left: 50%;
+   padding:10px;
+  }
+  button:hover{
+   color:red;
+  }
+  button:active{
+   color:blue;
+  }
+  

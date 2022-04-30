@@ -1,0 +1,8 @@
+.div1{
+    background-image: url(https://images.unsplash.com/photo-1604153137973-eb4cd5d259d9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=337&q=80);    background-repeat: no-repeat;
+    background-size: cover;
+    color:honeydew;
+}
+.div2{
+    background-color: rgba(0, 142, 194, 0.4);
+}
